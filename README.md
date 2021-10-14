@@ -12,6 +12,7 @@ This program is designed for a user to add workouts and track their progress.
 Nothing needs to be installed, just go to the deployed link [here](https://limitless-crag-14931.herokuapp.com/)!
 ## Usage
 Start by clicking "New Workout" to create a new workout plan. Then fill out prompts for desired workout, then click either add exercise or complete. You should be able to see your workout under the "Dashboard" page and you should be able to see your stats under the "Fitness Tracker" page.
+![Add Workout Page](https://github.com/kirafaye99/Workout-Tracker/blob/eec82bfbdd5ac8b1b119050b7515fe95a19e371b/fitness%20tracker%20add%20workout.PNG)
 ## License
 MIT License
 ## Questions
