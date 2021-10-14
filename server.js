@@ -18,7 +18,8 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
     useUnifiedTopology: true,
 });
 
-app.use(require('./public/api'));
+app.use(require('./routes/api-routes'));
+app.use(require('./routes/html-routes'));
 
 app.listen(PORT, () => {
     console.log(`Now listening on port ${PORT}!`);
